@@ -84,3 +84,12 @@ h1{
   font-weight: bold;
   color: #fff;
 }
+
+.empty{
+  background-color: #f00;
+}
+
+.re{
+  background-color: white;
+
+}
